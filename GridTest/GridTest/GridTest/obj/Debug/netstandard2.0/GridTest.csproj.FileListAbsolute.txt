@@ -1,0 +1,13 @@
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\bin\Debug\netstandard2.0\GridTest.deps.json
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\bin\Debug\netstandard2.0\GridTest.dll
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\bin\Debug\netstandard2.0\GridTest.pdb
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.csprojResolveAssemblyReference.cache
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.csproj.CoreCompileInputs.cache
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.App.xaml.g.cs
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.GridPage.xaml.g.cs
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.MainPage.xaml.g.cs
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.AssemblyInfoInputs.cache
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.AssemblyInfo.cs
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.dll
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.pdb
+c:\users\guika\source\repos\GridTest\GridTest\GridTest\obj\Debug\netstandard2.0\GridTest.GridExercise.xaml.g.cs
