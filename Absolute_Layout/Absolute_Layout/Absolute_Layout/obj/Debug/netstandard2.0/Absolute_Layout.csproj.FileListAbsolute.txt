@@ -1,0 +1,13 @@
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\bin\Debug\netstandard2.0\Absolute_Layout.deps.json
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\bin\Debug\netstandard2.0\Absolute_Layout.dll
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\bin\Debug\netstandard2.0\Absolute_Layout.pdb
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.csprojResolveAssemblyReference.cache
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.csproj.CoreCompileInputs.cache
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.AbsolutePage.xaml.g.cs
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.App.xaml.g.cs
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.MainPage.xaml.g.cs
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.AssemblyInfoInputs.cache
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.AssemblyInfo.cs
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.dll
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.pdb
+c:\users\guika\source\repos\Absolute_Layout\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.AbsolutePage1.xaml.g.cs
