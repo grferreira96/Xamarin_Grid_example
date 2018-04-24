@@ -1,0 +1,13 @@
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.csprojResolveAssemblyReference.cache
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.csproj.CoreCompileInputs.cache
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.App.xaml.g.cs
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.ImagesPage.xaml.g.cs
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.MainPage.xaml.g.cs
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\bin\Debug\netstandard2.0\Images_app.deps.json
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\bin\Debug\netstandard2.0\Images_app.dll
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\bin\Debug\netstandard2.0\Images_app.pdb
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.AssemblyInfoInputs.cache
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.AssemblyInfo.cs
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.dll
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.pdb
+c:\users\guika\source\repos\Images_app\Images_app\Images_app\obj\Debug\netstandard2.0\Images_app.ImageExercise.xaml.g.cs
