@@ -1,0 +1,14 @@
+c:\users\guika\source\repos\exercise\exercise\exercise\bin\Debug\netstandard2.0\exercise.deps.json
+c:\users\guika\source\repos\exercise\exercise\exercise\bin\Debug\netstandard2.0\exercise.dll
+c:\users\guika\source\repos\exercise\exercise\exercise\bin\Debug\netstandard2.0\exercise.pdb
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.csprojResolveAssemblyReference.cache
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.csproj.CoreCompileInputs.cache
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.App.xaml.g.cs
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.MainPage.xaml.g.cs
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.AssemblyInfoInputs.cache
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.AssemblyInfo.cs
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.dll
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.pdb
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.QuotesPage.xaml.g.cs
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.StackPage.xaml.g.cs
+c:\users\guika\source\repos\exercise\exercise\exercise\obj\Debug\netstandard2.0\exercise.StackPage1.xaml.g.cs
